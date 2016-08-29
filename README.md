@@ -1,3 +1,2 @@
 # test.status.publisher
-travis
-1
+2
