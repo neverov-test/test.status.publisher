@@ -1,3 +1,3 @@
 # test.status.publisher
 travis
-1
+3
